@@ -31,7 +31,7 @@ Significant contributions that I have made to various open-source projects over 
 
 ## [Scratch Addons](https://scratchaddons.com/) - WebExtension to improve UX on the Scratch coding site
 
-### Active maintainer from April 2021 - January 2023; Reputable communtity member ever since
+### Active maintainer from April 2021 - December 2022; Reputable communtity member ever since
 
 -   [ScratchAddons/scratchaddons.github.io#4](https://github.com/ScratchAddons/scratchaddons.github.io/pull/4) (2021-01-02) - Better redirect page
 -   [ScratchAddons/ScratchAddons#1389](https://github.com/ScratchAddons/ScratchAddons/pull/1389) (2021-01-22) - fix uploading image message
@@ -60,7 +60,6 @@ Significant contributions that I have made to various open-source projects over 
 -   [ScratchAddons/ScratchAddons#4326](https://github.com/ScratchAddons/ScratchAddons/pull/4326) (2022-02-23) - Remove redundant CSS
 -   [ScratchAddons/ScratchAddons#4388](https://github.com/ScratchAddons/ScratchAddons/pull/4388) (2022-03-10) - Move eslint ignores into .eslintrc
 -   [ScratchAddons/website-v2#183](https://github.com/ScratchAddons/website-v2/pull/183) (2022-03-23) - Temporarily disable feedback forum
--   [ScratchAddons/docs `69ed0a3`](https://github.com/ScratchAddons/docs/commit/69ed0a3) (2023-08-29) - Fix inconsistencies in changelog links
 -   [ScratchAddons/ScratchAddons#5048](https://github.com/ScratchAddons/ScratchAddons/pull/5048) (2022-08-29) - Bump to 1.29-pre
 -   [ScratchAddons/ScratchAddons#5191](https://github.com/ScratchAddons/ScratchAddons/pull/5191) (2022-10-13) - Update RedGuy7 credit links
 -   [ScratchAddons/extension-store-description-tool `9048d31`](https://github.com/ScratchAddons/extension-store-description-tool/commit/9048d31) (2021-09-24) - Edge button
@@ -70,6 +69,7 @@ Significant contributions that I have made to various open-source projects over 
 -   [ScratchAddons/website-v2#270](https://github.com/ScratchAddons/website-v2/pull/270) (2022-11-08) - Add /install
 -   [ScratchAddons/ScratchAddons#5519](https://github.com/ScratchAddons/ScratchAddons/pull/5519) (2022-12-30) - Move more md files to .github
 -   [ScratchAddons/docs `e676143`](https://github.com/ScratchAddons/docs/commit/e676143) (2023-01-06) - update year
+-   [ScratchAddons/docs `69ed0a3`](https://github.com/ScratchAddons/docs/commit/69ed0a3) (2023-08-29) - Fix inconsistencies in changelog links
 
 ## [highlight.js](https://highlightjs.org/) - Multipurpose code formatter made in JavaScript
 
