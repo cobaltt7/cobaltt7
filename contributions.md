@@ -25,6 +25,7 @@ Significant contributions that I have made to various open-source projects over 
 -   [psf/black#4076](https://github.com/psf/black/pull/4076) (2023-11-28): docs: Unify option descriptions between `--help` and `the_basics.md`
 -   [psf/black#4090](https://github.com/psf/black/pull/4090) (2023-12-08): docs: Move `fmt: off` docs
 -   [psf/black#4109](https://github.com/psf/black/pull/4109) (2023-12-13): fix: In subscripts, treat walruses just like other binary operators
+-   [psf/black#4155](https://github.com/psf/black/pull/4155) (2024-01-16): fix: Don't allow unparenthesizing walruses
 
 ## [pandas](https://pandas.pydata.org/) - Library for dealing with tabular data in Python
 
