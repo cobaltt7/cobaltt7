@@ -2,7 +2,7 @@
 
 Significant contributions that I have made to various open-source projects over the past few years.
 
-## [discord.js](https://discord.js.org/) - Library for creating Discord bots using JavaScript
+## [discord.js](https://discord.js.org/) *(JavaScript + TypeScript)* - Powerful JavaScript libraries for building Discord bots
 
 -   [discordjs/discord.js#8421](https://github.com/discordjs/discord.js/pull/8421) (2022-08-03): docs(AttachmentBuilder): fix #8407
 -   [discordjs/discord.js#8465](https://github.com/discordjs/discord.js/pull/8465) (2022-08-10): types(Message): correct `bulkDelete` return type
@@ -18,7 +18,7 @@ Significant contributions that I have made to various open-source projects over 
 -   [discordjs/discord.js#9410](https://github.com/discordjs/discord.js/pull/9410) (2023-06-13): fix(ThreadManager): Fix internal crash upon conditionally resolving thread members
 -   [discordjs/discord.js#9847](https://github.com/discordjs/discord.js/pull/9847) (2023-09-21): feat(BaseChannel): Add `isThreadOnly()`
 
-## [Black](https://black.readthedocs.io/en/stable/) - Python code formatter
+## [Black](https://black.readthedocs.io/en/stable/) *(Python)* - Opinionated and uncompromising Python code formatter
 
 -   [psf/black#4048](https://github.com/psf/black/pull/4048) (2023-11-17): docs: Document target version inference
 -   [psf/black#4072](https://github.com/psf/black/pull/4072) (2023-11-27): docs: Clarify include/exclude documentation
@@ -28,11 +28,11 @@ Significant contributions that I have made to various open-source projects over 
 -   [psf/black#4146](https://github.com/psf/black/pull/4146) (2024-01-08): fix: Don't normalize whitespace before fmt:skip comments
 -   [psf/black#4155](https://github.com/psf/black/pull/4155) (2024-01-16): fix: Don't allow unparenthesizing walruses
 
-## [pandas](https://pandas.pydata.org/) - Library for dealing with tabular data in Python
+## [pandas](https://pandas.pydata.org/) *(Python)* - Tabular data manipulation tool and Python library
 
 -   [pandas-dev/pandas#55427](https://github.com/pandas-dev/pandas/pull/55427) (2023-10-06): DOC: Remove outdated docs about NumPy's broadcasting
 
-## [Scratch Addons](https://scratchaddons.com/) - WebExtension to improve UX on the Scratch coding site
+## [Scratch Addons](https://scratchaddons.com/) *(JavaScript)* - Browser extention with helpful utilities and themes for Scratch
 
 ### Active maintainer from April 2021 to December 2022; Reputable community member ever since
 
@@ -74,12 +74,12 @@ Significant contributions that I have made to various open-source projects over 
 -   [ScratchAddons/docs `e676143`](https://github.com/ScratchAddons/docs/commit/e676143) (2023-01-06): update year
 -   [ScratchAddons/docs `69ed0a3`](https://github.com/ScratchAddons/docs/commit/69ed0a3) (2023-08-29): Fix inconsistencies in changelog links
 
-## [highlight.js](https://highlightjs.org/) - Multipurpose code formatter made in JavaScript
+## [highlight.js](https://highlightjs.org/) *(JavaScript)* - Multi-language code syntax highlighter
 
 -   [highlightjs/highlight.js#2867](https://github.com/highlightjs/highlight.js/pull/2867) (2020-11-15): Add BBcode to language table
 -   [highlightjs/highlight.js#2965](https://github.com/highlightjs/highlight.js/pull/2965) (2021-01-18): Add missing comma to SUPPORTED_LANGUAGES.md
 
-## [discord.py](https://discordpy.readthedocs.io/en/stable/) - Library for creating Discord bots using Python
+## [discord.py](https://discordpy.readthedocs.io/en/stable/) *(Python)* - Python wrapper around the Discord API and Discord bot framework
 
 -   [Rapptz/discord.py#9410](https://github.com/Rapptz/discord.py/pull/9410) (2023-05-16): Fix `channel_icon_change`'s `system_message`
 
