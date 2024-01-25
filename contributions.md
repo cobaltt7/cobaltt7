@@ -25,6 +25,7 @@ Significant contributions that I have made to various open-source projects over 
 -   [psf/black#4076](https://github.com/psf/black/pull/4076) (2023-11-28): docs: Unify option descriptions between `--help` and `the_basics.md`
 -   [psf/black#4090](https://github.com/psf/black/pull/4090) (2023-12-08): docs: Move `fmt: off` docs
 -   [psf/black#4109](https://github.com/psf/black/pull/4109) (2023-12-13): fix: In subscripts, treat walruses just like other binary operators
+-   [psf/black#4146](https://github.com/psf/black/pull/4146) (2024-01-08): fix: Don't normalize whitespace before fmt:skip comments
 -   [psf/black#4155](https://github.com/psf/black/pull/4155) (2024-01-16): fix: Don't allow unparenthesizing walruses
 
 ## [pandas](https://pandas.pydata.org/) - Library for dealing with tabular data in Python
@@ -84,10 +85,10 @@ Significant contributions that I have made to various open-source projects over 
 
 ## Misc
 
--   [antfu/vscode-file-nesting-config#147](https://github.com/antfu/vscode-file-nesting-config/pull/147) (2023-02-30): feat: add npm-shrinkwrap.json
 -   [stewartmcgown/grammarly-api#27](https://github.com/stewartmcgown/grammarly-api/pull/27) (2021-06-05): Dialect customization
--   [railwayapp/docs#288](https://github.com/railwayapp/docs/pull/288) (2023-06-23): Change example RAILWAY_VOLUME_MOUNT_PATH
 -   [bryanburgers/node-mustache-express#33](https://github.com/bryanburgers/node-mustache-express/pull/33) (2021-08-05): Tell the user what file errors occur in
+-   [antfu/vscode-file-nesting-config#147](https://github.com/antfu/vscode-file-nesting-config/pull/147) (2023-02-30): feat: add npm-shrinkwrap.json
+-   [BirthdayyBot/Birthdayy#173](https://github.com/BirthdayyBot/Birthdayy/pull/173) (2023-04-04): Fix permissions for `/birthday update` and `/birthday remove`
+-   [railwayapp/docs#288](https://github.com/railwayapp/docs/pull/288) (2023-06-23): Change example RAILWAY_VOLUME_MOUNT_PATH
 -   [jeffalo/ocular#140](https://github.com/jeffalo/ocular/pull/140) (2022-01-11): Fix broken link
 -   [TurboWarp/docs#48](https://github.com/TurboWarp/docs/pull/48) (2022-10-29): Fix grammar in 4.4.md
--   [BirthdayyBot/Birthdayy#173](https://github.com/BirthdayyBot/Birthdayy/pull/173) (2023-04-04): Fix permissions for `/birthday update` and `/birthday remove`
