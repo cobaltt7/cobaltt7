@@ -27,6 +27,7 @@ Significant contributions that I have made to various open-source projects over 
 -   [psf/black#4109](https://github.com/psf/black/pull/4109) (2023-12-13): fix: In subscripts, treat walruses just like other binary operators
 -   [psf/black#4146](https://github.com/psf/black/pull/4146) (2024-01-08): fix: Don't normalize whitespace before fmt:skip comments
 -   [psf/black#4155](https://github.com/psf/black/pull/4155) (2024-01-16): fix: Don't allow unparenthesizing walruses
+-   [psf/black#4164](https://github.com/psf/black/pull/4164) (2024-01-23): fix: Consistently add trailing comma on typed parameters
 
 ## [pandas](https://pandas.pydata.org/) *(Python)* - Tabular data manipulation tool and Python library
 
