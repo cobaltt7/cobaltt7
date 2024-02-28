@@ -17,6 +17,7 @@ Significant contributions that I have made to various open-source projects over 
 -   [discordjs/discord.js#8790](https://github.com/discordjs/discord.js/pull/8790) (2022-10-27): fix(Transformers): call `.toJSON` in `toSnakeCase`
 -   [discordjs/discord.js#9410](https://github.com/discordjs/discord.js/pull/9410) (2023-06-13): fix(ThreadManager): Fix internal crash upon conditionally resolving thread members
 -   [discordjs/discord.js#9847](https://github.com/discordjs/discord.js/pull/9847) (2023-09-21): feat(BaseChannel): Add `isThreadOnly()`
+-   [discordjs/discord.js#10156](https://github.com/discordjs/discord.js/pull/10156) (2024-02-27): fix(Faces): Escape backslash in `Shrug`
 
 ## [Black](https://black.readthedocs.io/en/stable/) *(Python)* - Opinionated and uncompromising Python code formatter
 
@@ -75,6 +76,7 @@ Significant contributions that I have made to various open-source projects over 
 -   [ScratchAddons/ScratchAddons#5519](https://github.com/ScratchAddons/ScratchAddons/pull/5519) (2022-12-30): Move more md files to .github
 -   [ScratchAddons/docs `e676143`](https://github.com/ScratchAddons/docs/commit/e676143) (2023-01-06): update year
 -   [ScratchAddons/docs `69ed0a3`](https://github.com/ScratchAddons/docs/commit/69ed0a3) (2023-08-29): Fix inconsistencies in changelog links
+-   [ScratchAddons/list-of-enabled-addons `bd7eb0d`](https://github.com/ScratchAddons/list-of-enabled-addons/commit/bd7eb0d) (2024-02-21): Fix #1
 
 ## [highlight.js](https://highlightjs.org/) *(JavaScript)* - Multi-language code syntax highlighter
 
