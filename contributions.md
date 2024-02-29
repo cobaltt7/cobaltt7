@@ -30,6 +30,8 @@ Significant contributions that I have made to various open-source projects over 
 -   [psf/black#4155](https://github.com/psf/black/pull/4155) (2024-01-16): fix: Don't allow unparenthesizing walruses
 -   [psf/black#4164](https://github.com/psf/black/pull/4164) (2024-01-23): fix: Consistently add trailing comma on typed parameters
 -   [psf/black#4194](https://github.com/psf/black/pull/4194) (2024-01-29): docs: Refactor pycodestyle/Flake8 compatibility docs
+-   [psf/black#4202](https://github.com/psf/black/pull/4202) (2024-02-01): Make trailing comma logic more consise
+-   [psf/black#4257](https://github.com/psf/black/pull/4257) (2024-02-28): chore: Refactor `delimiter_split()`
 
 ## [pandas](https://pandas.pydata.org/) *(Python)* - Tabular data manipulation tool and Python library
 
