@@ -2,6 +2,21 @@
 
 Significant contributions that I have made to various open-source projects over the past few years.
 
+## [Black](https://black.readthedocs.io/en/stable/) *(Python)* - Opinionated and uncompromising Python code formatter
+
+-   [psf/black#4048](https://github.com/psf/black/pull/4048) (2023-11-17): docs: Document target version inference
+-   [psf/black#4072](https://github.com/psf/black/pull/4072) (2023-11-27): docs: Clarify include/exclude documentation
+-   [psf/black#4076](https://github.com/psf/black/pull/4076) (2023-11-28): docs: Unify option descriptions between `--help` and `the_basics.md`
+-   [psf/black#4090](https://github.com/psf/black/pull/4090) (2023-12-08): docs: Move `fmt: off` docs
+-   [psf/black#4109](https://github.com/psf/black/pull/4109) (2023-12-13): fix: In subscripts, treat walruses just like other binary operators
+-   [psf/black#4146](https://github.com/psf/black/pull/4146) (2024-01-08): fix: Don't normalize whitespace before fmt:skip comments
+-   [psf/black#4155](https://github.com/psf/black/pull/4155) (2024-01-16): fix: Don't allow unparenthesizing walruses
+-   [psf/black#4164](https://github.com/psf/black/pull/4164) (2024-01-23): fix: Consistently add trailing comma on typed parameters
+-   [psf/black#4194](https://github.com/psf/black/pull/4194) (2024-01-29): docs: Refactor pycodestyle/Flake8 compatibility docs
+-   [psf/black#4202](https://github.com/psf/black/pull/4202) (2024-02-01): Make trailing comma logic more consise
+-   [psf/black#4248](https://github.com/psf/black/pull/4248) (2024-02-22): fix: Don't move comments while splitting delimiters
+-   [psf/black#4257](https://github.com/psf/black/pull/4257) (2024-02-28): chore: Refactor `delimiter_split()`
+
 ## [discord.js](https://discord.js.org/) *(JavaScript + TypeScript)* - Powerful JavaScript libraries for building Discord bots
 
 -   [discordjs/discord.js#8421](https://github.com/discordjs/discord.js/pull/8421) (2022-08-03): docs(AttachmentBuilder): fix #8407
@@ -18,20 +33,6 @@ Significant contributions that I have made to various open-source projects over 
 -   [discordjs/discord.js#9410](https://github.com/discordjs/discord.js/pull/9410) (2023-06-13): fix(ThreadManager): Fix internal crash upon conditionally resolving thread members
 -   [discordjs/discord.js#9847](https://github.com/discordjs/discord.js/pull/9847) (2023-09-21): feat(BaseChannel): Add `isThreadOnly()`
 -   [discordjs/discord.js#10156](https://github.com/discordjs/discord.js/pull/10156) (2024-02-27): fix(Faces): Escape backslash in `Shrug`
-
-## [Black](https://black.readthedocs.io/en/stable/) *(Python)* - Opinionated and uncompromising Python code formatter
-
--   [psf/black#4048](https://github.com/psf/black/pull/4048) (2023-11-17): docs: Document target version inference
--   [psf/black#4072](https://github.com/psf/black/pull/4072) (2023-11-27): docs: Clarify include/exclude documentation
--   [psf/black#4076](https://github.com/psf/black/pull/4076) (2023-11-28): docs: Unify option descriptions between `--help` and `the_basics.md`
--   [psf/black#4090](https://github.com/psf/black/pull/4090) (2023-12-08): docs: Move `fmt: off` docs
--   [psf/black#4109](https://github.com/psf/black/pull/4109) (2023-12-13): fix: In subscripts, treat walruses just like other binary operators
--   [psf/black#4146](https://github.com/psf/black/pull/4146) (2024-01-08): fix: Don't normalize whitespace before fmt:skip comments
--   [psf/black#4155](https://github.com/psf/black/pull/4155) (2024-01-16): fix: Don't allow unparenthesizing walruses
--   [psf/black#4164](https://github.com/psf/black/pull/4164) (2024-01-23): fix: Consistently add trailing comma on typed parameters
--   [psf/black#4194](https://github.com/psf/black/pull/4194) (2024-01-29): docs: Refactor pycodestyle/Flake8 compatibility docs
--   [psf/black#4202](https://github.com/psf/black/pull/4202) (2024-02-01): Make trailing comma logic more consise
--   [psf/black#4257](https://github.com/psf/black/pull/4257) (2024-02-28): chore: Refactor `delimiter_split()`
 
 ## [pandas](https://pandas.pydata.org/) *(Python)* - Tabular data manipulation tool and Python library
 
@@ -80,14 +81,14 @@ Significant contributions that I have made to various open-source projects over 
 -   [ScratchAddons/docs `69ed0a3`](https://github.com/ScratchAddons/docs/commit/69ed0a3) (2023-08-29): Fix inconsistencies in changelog links
 -   [ScratchAddons/list-of-enabled-addons `bd7eb0d`](https://github.com/ScratchAddons/list-of-enabled-addons/commit/bd7eb0d) (2024-02-21): Fix #1
 
+## [discord.py](https://discordpy.readthedocs.io/en/stable/) *(Python)* - Python wrapper around the Discord API and Discord bot framework
+
+-   [Rapptz/discord.py#9410](https://github.com/Rapptz/discord.py/pull/9410) (2023-05-16): Fix `channel_icon_change`'s `system_message`
+
 ## [highlight.js](https://highlightjs.org/) *(JavaScript)* - Multi-language code syntax highlighter
 
 -   [highlightjs/highlight.js#2867](https://github.com/highlightjs/highlight.js/pull/2867) (2020-11-15): Add BBcode to language table
 -   [highlightjs/highlight.js#2965](https://github.com/highlightjs/highlight.js/pull/2965) (2021-01-18): Add missing comma to SUPPORTED_LANGUAGES.md
-
-## [discord.py](https://discordpy.readthedocs.io/en/stable/) *(Python)* - Python wrapper around the Discord API and Discord bot framework
-
--   [Rapptz/discord.py#9410](https://github.com/Rapptz/discord.py/pull/9410) (2023-05-16): Fix `channel_icon_change`'s `system_message`
 
 ## Misc
 
