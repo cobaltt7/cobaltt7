@@ -16,6 +16,7 @@ Significant contributions that I have made to various open-source projects over 
 -   [psf/black#4202](https://github.com/psf/black/pull/4202) (2024-02-01): Make trailing comma logic more consise
 -   [psf/black#4248](https://github.com/psf/black/pull/4248) (2024-02-22): fix: Don't move comments while splitting delimiters
 -   [psf/black#4257](https://github.com/psf/black/pull/4257) (2024-02-28): chore: Refactor `delimiter_split()`
+-   [psf/black#4289](https://github.com/psf/black/pull/4289) (2024-03-22): fix: Stop moving multiline strings to a new line unless inside brackets
 
 ## [discord.js](https://discord.js.org/) *(JavaScript + TypeScript)* - Powerful JavaScript libraries for building Discord bots
 
@@ -33,6 +34,8 @@ Significant contributions that I have made to various open-source projects over 
 -   [discordjs/discord.js#9410](https://github.com/discordjs/discord.js/pull/9410) (2023-06-13): fix(ThreadManager): Fix internal crash upon conditionally resolving thread members
 -   [discordjs/discord.js#9847](https://github.com/discordjs/discord.js/pull/9847) (2023-09-21): feat(BaseChannel): Add `isThreadOnly()`
 -   [discordjs/discord.js#10156](https://github.com/discordjs/discord.js/pull/10156) (2024-02-27): fix(Faces): Escape backslash in `Shrug`
+-   [discordjs/discord.js#10184](https://github.com/discordjs/discord.js/pull/10184) (2024-03-20): fix(types): Export `ReadonlyCollection`
+<!-- -   [discordjs/discord.js#10181](https://github.com/discordjs/discord.js/pull/10181) (2024-03-18): types: Use `ThreadChannel` and `AnyThreadChannel` consistently -->
 
 ## [pandas](https://pandas.pydata.org/) *(Python)* - Tabular data manipulation tool and Python library
 
@@ -99,3 +102,4 @@ Significant contributions that I have made to various open-source projects over 
 -   [railwayapp/docs#288](https://github.com/railwayapp/docs/pull/288) (2023-06-23): Change example RAILWAY_VOLUME_MOUNT_PATH
 -   [jeffalo/ocular#140](https://github.com/jeffalo/ocular/pull/140) (2022-01-11): Fix broken link
 -   [TurboWarp/docs#48](https://github.com/TurboWarp/docs/pull/48) (2022-10-29): Fix grammar in 4.4.md
+<!-- -   [gajus/eslint-disable#2](https://github.com/gajus/eslint-disable/pull/2) (2022-01-29): Remove plugins from `env`, `processor`, and `overrides` as well -->
