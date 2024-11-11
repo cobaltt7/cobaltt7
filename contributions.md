@@ -40,7 +40,7 @@ Significant contributions that I have made to various open-source projects over 
 -   [discordjs/discord.js#10184](https://github.com/discordjs/discord.js/pull/10184) (2024-03-20): fix(types): Export `ReadonlyCollection`
 -   [discordjs/discord-api-types#955](https://github.com/discordjs/discord-api-types/pull/955) (2024-04-16): fix: Correct types for `APIAuditLogChangeKey$Add` and `APIAuditLogChangeKey$Remove`
 -   [discordjs/discord.js#10276](https://github.com/discordjs/discord.js/pull/10276) (2024-05-14): types: Forum starter messages do not support polls
-<!-- -   [discordjs/discord.js#10567](https://github.com/discordjs/discord.js/pull/10567) (2024-10-20): refactor(formatters): Change :_: emoji name placeholder -->
+-   [discordjs/discord.js#10567](https://github.com/discordjs/discord.js/pull/10567) (2024-10-20): refactor(formatters): Change :_: emoji name placeholder
 
 ## [pandas](https://pandas.pydata.org/) *(Python)* - Tabular data manipulation tool and Python library
 
