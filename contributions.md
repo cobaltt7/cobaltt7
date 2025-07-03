@@ -4,6 +4,8 @@ Significant contributions that I have made to various open-source projects over 
 
 ## [Black](https://black.readthedocs.io/en/stable/) *(Python)* - Opinionated and uncompromising Python code formatter
 
+### Semi-active maintainer since January 2025
+
 -   [psf/black#4048](https://github.com/psf/black/pull/4048) (2023-11-17): docs: Document target version inference
 -   [psf/black#4072](https://github.com/psf/black/pull/4072) (2023-11-27): docs: Clarify include/exclude documentation
 -   [psf/black#4076](https://github.com/psf/black/pull/4076) (2023-11-28): docs: Unify option descriptions between `--help` and `the_basics.md`
@@ -17,8 +19,12 @@ Significant contributions that I have made to various open-source projects over 
 -   [psf/black#4248](https://github.com/psf/black/pull/4248) (2024-02-22): fix: Don't move comments while splitting delimiters
 -   [psf/black#4257](https://github.com/psf/black/pull/4257) (2024-02-28): chore: Refactor `delimiter_split()`
 -   [psf/black#4289](https://github.com/psf/black/pull/4289) (2024-03-22): fix: Stop moving multiline strings to a new line unless inside brackets
-<!-- -   [psf/black#4312](https://github.com/psf/black/pull/4312) (2024-04-17): fix: Remove parenthesis around sole list items -->
-<!-- -   [psf/black#4377](https://github.com/psf/black/pull/4377) (2024-06-06): fix: Don't remove parenthesis around long dictionary values -->
+-   [psf/black#4312](https://github.com/psf/black/pull/4312) (2024-04-17): fix: Remove parenthesis around sole list items
+-   [psf/black#4377](https://github.com/psf/black/pull/4377) (2024-06-06): fix: Don't remove parenthesis around long dictionary values
+-   [psf/black#4537](https://github.com/psf/black/pull/4537) (2024-12-22): Fix type error
+-   [psf/black#4561](https://github.com/psf/black/pull/4561) (2025-01-25): Move `wrap_long_dict_values_in_parens` to the preview style
+-   [psf/black#4662](https://github.com/psf/black/pull/4662) (2025-05-04): Update Prettier pre-commit configuration
+-   [psf/black#4665](https://github.com/psf/black/pull/4665) (2025-05-11): CI: Remove now-uneeded workarounds
 
 ## [discord.js](https://discord.js.org/) *(JavaScript + TypeScript)* - Powerful JavaScript libraries for building Discord bots
 
@@ -41,6 +47,7 @@ Significant contributions that I have made to various open-source projects over 
 -   [discordjs/discord-api-types#955](https://github.com/discordjs/discord-api-types/pull/955) (2024-04-16): fix: Correct types for `APIAuditLogChangeKey$Add` and `APIAuditLogChangeKey$Remove`
 -   [discordjs/discord.js#10276](https://github.com/discordjs/discord.js/pull/10276) (2024-05-14): types: Forum starter messages do not support polls
 -   [discordjs/discord.js#10567](https://github.com/discordjs/discord.js/pull/10567) (2024-10-20): refactor(formatters): Change :_: emoji name placeholder
+-   [discordjs/discord.js#10567](https://github.com/discordjs/discord.js/pull/10591) (2024-11-05): fix(GuildAuditLogEntry)!: Fix some incorrect types and runtime logic
 
 ## [pandas](https://pandas.pydata.org/) *(Python)* - Tabular data manipulation tool and Python library
 
@@ -102,6 +109,7 @@ Significant contributions that I have made to various open-source projects over 
 
 ## Misc
 
+-   [Ballsdex-Team/BallsDex-DiscordBot#460](https://github.com/Ballsdex-Team/BallsDex-DiscordBot/pull/460) (2024-11-11): Show the actual emoji instead of just the ID on the admin panel
 -   [stewartmcgown/grammarly-api#27](https://github.com/stewartmcgown/grammarly-api/pull/27) (2021-06-05): Dialect customization
 -   [bryanburgers/node-mustache-express#33](https://github.com/bryanburgers/node-mustache-express/pull/33) (2021-08-05): Tell the user what file errors occur in
 -   [antfu/vscode-file-nesting-config#147](https://github.com/antfu/vscode-file-nesting-config/pull/147) (2023-02-20): feat: add npm-shrinkwrap.json
