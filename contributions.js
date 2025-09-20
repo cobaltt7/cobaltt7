@@ -87,4 +87,4 @@ await writeFile(
 		+ formattedProjects.join("\n\n")
 		+ "\n",
 	"utf8",
-);
+)
