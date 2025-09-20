@@ -71,6 +71,7 @@ const formattedProjects = combined.map(
 	([project, pulls]) =>
 		`## ${HEADERS[project] ?? project}\n\n`
 		+ `${pulls
+			.toReversed()
 			.map((pull) => {
 				const parts = pull.url.split("/");
 				return `- [${project === "Misc" ? `${parts[4]}/${parts[5]}` : parts[5]}#${
