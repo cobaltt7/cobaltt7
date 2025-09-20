@@ -1,0 +1,19 @@
+{
+	"name": "github-profile",
+	"private": true,
+	"type": "module",
+	"main": "contributions.js",
+	"scripts": {
+		"format": "prettier --write \"**\" --ignore-unknown --cache",
+		"start": "node ."
+	},
+	"prettier": "@redguy12/prettier-config",
+	"devDependencies": {
+		"@redguy12/prettier-config": "3.4.4",
+		"@types/node": "<=22.17",
+		"prettier": "3.6.2"
+	},
+	"engines": {
+		"node": ">=22.17"
+	}
+}
