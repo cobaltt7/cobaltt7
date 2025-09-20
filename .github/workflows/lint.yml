@@ -74,9 +74,9 @@ jobs:
 
             - name: Reset to latest remote
               run: |
-                branch=$(git branch --show-current)
-                git fetch origin $branch
-                git reset --hard origin/$branch
+                  branch=$(git branch --show-current)
+                  git fetch origin $branch
+                  git reset --hard origin/$branch
 
             - name: Setup Node.JS
               uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
