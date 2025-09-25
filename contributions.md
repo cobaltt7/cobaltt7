@@ -6,6 +6,7 @@ Significant contributions that I have made to various open-source projects over 
 
 ### Maintainer since January 2025
 
+- [black#4766](https://github.com/psf/black/pull/4766) (2025-09-25): ci: ignore `#\r` in Fuzz
 - [black#4745](https://github.com/psf/black/pull/4745) (2025-09-11): Fix mypy type issue
 - [black#4741](https://github.com/psf/black/pull/4741) (2025-08-31): ci: Run diff-shades on unstable instead of preview
 - [diff-shades#19](https://github.com/ichard26/diff-shades/pull/19) (2025-08-24): Add `--force-unstable-style` flag
