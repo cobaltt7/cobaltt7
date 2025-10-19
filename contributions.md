@@ -6,7 +6,9 @@ Significant contributions that I have made to various open-source projects over 
 
 ### Maintainer since January 2025
 
+- [black#4801](https://github.com/psf/black/pull/4801) (2025-10-19): doc: Add note to changelog to use PR numbers
 - [black#4799](https://github.com/psf/black/pull/4799) (2025-10-18): Revert "ci: Run diff-shades on unstable instead of preview (#4741)"
+- [black#4798](https://github.com/psf/black/pull/4798) (2025-10-18): chore: gitignore .pyd files
 - [black#4767](https://github.com/psf/black/pull/4767) (2025-09-26): ci: try running diff-shades runs concurrently
 - [black#4766](https://github.com/psf/black/pull/4766) (2025-09-25): ci: ignore `#\r` in Fuzz
 - [black#4760](https://github.com/psf/black/pull/4760) (2025-09-20): Move `multiline_string_handling` from unstable to preview
