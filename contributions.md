@@ -7,7 +7,9 @@ Significant contributions that I have made to various open-source projects over 
 ### Maintainer since January 2025
 
 - [black#4799](https://github.com/psf/black/pull/4799) (2025-10-18): Revert "ci: Run diff-shades on unstable instead of preview (#4741)"
+- [black#4767](https://github.com/psf/black/pull/4767) (2025-09-26): ci: try running diff-shades runs concurrently
 - [black#4766](https://github.com/psf/black/pull/4766) (2025-09-25): ci: ignore `#\r` in Fuzz
+- [black#4760](https://github.com/psf/black/pull/4760) (2025-09-20): Move `multiline_string_handling` from unstable to preview
 - [black#4745](https://github.com/psf/black/pull/4745) (2025-09-11): Fix mypy type issue
 - [black#4741](https://github.com/psf/black/pull/4741) (2025-08-31): ci: Run diff-shades on unstable instead of preview
 - [diff-shades#19](https://github.com/ichard26/diff-shades/pull/19) (2025-08-24): Add `--force-unstable-style` flag
