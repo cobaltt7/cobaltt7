@@ -6,6 +6,8 @@ Significant contributions that I have made to various open-source projects over 
 
 ### Maintainer since January 2025
 
+- [black#4836](https://github.com/psf/black/pull/4836) (2025-11-10): Add new changelog
+- [black#4830](https://github.com/psf/black/pull/4830) (2025-11-09): fix windows wheels
 - [black#4801](https://github.com/psf/black/pull/4801) (2025-10-19): doc: Add note to changelog to use PR numbers
 - [black#4799](https://github.com/psf/black/pull/4799) (2025-10-18): Revert "ci: Run diff-shades on unstable instead of preview (#4741)"
 - [black#4798](https://github.com/psf/black/pull/4798) (2025-10-18): chore: gitignore .pyd files
