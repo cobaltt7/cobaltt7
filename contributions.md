@@ -6,6 +6,7 @@ Significant contributions that I have made to various open-source projects over 
 
 ### Maintainer since January 2025
 
+- [diff-shades#20](https://github.com/ichard26/diff-shades/pull/20) (2025-11-25): Update Python version requirements and arguments
 - [black#4854](https://github.com/psf/black/pull/4854) (2025-11-21): Fix `fix_fmt_skip_in_one_liners` crashing on annotated parameters
 - [black#4853](https://github.com/psf/black/pull/4853) (2025-11-21): Fix `fix_fmt_skip_in_one_liners` crashing on `with` statements
 - [black#4836](https://github.com/psf/black/pull/4836) (2025-11-10): Add new changelog
