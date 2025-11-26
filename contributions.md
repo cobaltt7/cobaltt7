@@ -48,31 +48,31 @@ Significant contributions that I have made to various open-source projects over 
 
 ## [discord.js](https://discord.js.org/) _(JavaScript + TypeScript)_ - Powerful JavaScript libraries for building Discord bots
 
-- [discord.js#10591](https://github.com/discordjs/discord.js/pull/10591) (2024-11-05): fix(GuildAuditLogEntry)!: Fix some incorrect types and runtime logic
-- [discord.js#10567](https://github.com/discordjs/discord.js/pull/10567) (2024-10-20): refactor(formatters): Change `:_:` emoji name placeholder
-- [discord.js#10276](https://github.com/discordjs/discord.js/pull/10276) (2024-05-14): types: Forum starter messages do not support polls
+- [#10591](https://github.com/discordjs/discord.js/pull/10591) (2024-11-05): fix(GuildAuditLogEntry)!: Fix some incorrect types and runtime logic
+- [#10567](https://github.com/discordjs/discord.js/pull/10567) (2024-10-20): refactor(formatters): Change `:_:` emoji name placeholder
+- [#10276](https://github.com/discordjs/discord.js/pull/10276) (2024-05-14): types: Forum starter messages do not support polls
 - [discord-api-types#955](https://github.com/discordjs/discord-api-types/pull/955) (2024-04-16): fix: Correct types for `APIAuditLogChangeKey$Add` and `APIAuditLogChangeKey$Remove`
-- [discord.js#10184](https://github.com/discordjs/discord.js/pull/10184) (2024-03-20): fix(types): Export `ReadonlyCollection`
-- [discord.js#10181](https://github.com/discordjs/discord.js/pull/10181) (2024-03-18): types: Use `ThreadChannel` and `AnyThreadChannel` consistently
-- [discord.js#10156](https://github.com/discordjs/discord.js/pull/10156) (2024-02-27): fix(Faces): Escape backslash in `Shrug`
-- [discord.js#9847](https://github.com/discordjs/discord.js/pull/9847) (2023-09-22): feat(BaseChannel): Add `isThreadOnly()`
-- [discord.js#9648](https://github.com/discordjs/discord.js/pull/9648) (2023-06-13): fix(ThreadManager): Fix internal crash upon conditionally resolving thread members
-- [discord.js#8799](https://github.com/discordjs/discord.js/pull/8799) (2022-10-30): fix(escapeMarkdown): fix double escaping (v13)
-- [discord.js#8798](https://github.com/discordjs/discord.js/pull/8798) (2022-10-30): fix(escapeMarkdown): fix double escaping
-- [discord.js#8790](https://github.com/discordjs/discord.js/pull/8790) (2022-10-27): fix(Transfomers): call `.toJSON` in `toSnakeCase`
-- [discord.js#8703](https://github.com/discordjs/discord.js/pull/8703) (2022-10-04): feat(Util): backport `escapeMarkdown` PRs to v13
-- [discord.js#8701](https://github.com/discordjs/discord.js/pull/8701) (2022-10-04): feat(Util): escape more markdown characters
-- [discord.js#8682](https://github.com/discordjs/discord.js/pull/8682) (2022-09-26): feat(EmbedBuilder): add `.length`
-- [discord.js#8624](https://github.com/discordjs/discord.js/pull/8624) (2022-09-15): docs: fix regexps incorrectly being called global
-- [discord.js#8598](https://github.com/discordjs/discord.js/pull/8598) (2022-09-05): fix: `awaitMessageComponent` with `MessageComponentInteraction`s
-- [discord.js#8596](https://github.com/discordjs/discord.js/pull/8596) (2022-09-05): test: rename incorrect test
-- [discord.js#8560](https://github.com/discordjs/discord.js/pull/8560) (2022-08-27): types(ThreadChannel): `fetchStarterMessage` must return a `Message<true>`
+- [#10184](https://github.com/discordjs/discord.js/pull/10184) (2024-03-20): fix(types): Export `ReadonlyCollection`
+- [#10181](https://github.com/discordjs/discord.js/pull/10181) (2024-03-18): types: Use `ThreadChannel` and `AnyThreadChannel` consistently
+- [#10156](https://github.com/discordjs/discord.js/pull/10156) (2024-02-27): fix(Faces): Escape backslash in `Shrug`
+- [#9847](https://github.com/discordjs/discord.js/pull/9847) (2023-09-22): feat(BaseChannel): Add `isThreadOnly()`
+- [#9648](https://github.com/discordjs/discord.js/pull/9648) (2023-06-13): fix(ThreadManager): Fix internal crash upon conditionally resolving thread members
+- [#8799](https://github.com/discordjs/discord.js/pull/8799) (2022-10-30): fix(escapeMarkdown): fix double escaping (v13)
+- [#8798](https://github.com/discordjs/discord.js/pull/8798) (2022-10-30): fix(escapeMarkdown): fix double escaping
+- [#8790](https://github.com/discordjs/discord.js/pull/8790) (2022-10-27): fix(Transfomers): call `.toJSON` in `toSnakeCase`
+- [#8703](https://github.com/discordjs/discord.js/pull/8703) (2022-10-04): feat(Util): backport `escapeMarkdown` PRs to v13
+- [#8701](https://github.com/discordjs/discord.js/pull/8701) (2022-10-04): feat(Util): escape more markdown characters
+- [#8682](https://github.com/discordjs/discord.js/pull/8682) (2022-09-26): feat(EmbedBuilder): add `.length`
+- [#8624](https://github.com/discordjs/discord.js/pull/8624) (2022-09-15): docs: fix regexps incorrectly being called global
+- [#8598](https://github.com/discordjs/discord.js/pull/8598) (2022-09-05): fix: `awaitMessageComponent` with `MessageComponentInteraction`s
+- [#8596](https://github.com/discordjs/discord.js/pull/8596) (2022-09-05): test: rename incorrect test
+- [#8560](https://github.com/discordjs/discord.js/pull/8560) (2022-08-27): types(ThreadChannel): `fetchStarterMessage` must return a `Message<true>`
 - [guide#1234](https://github.com/discordjs/guide/pull/1234) (2022-08-23): Mention `restWsBridgeTimeout` in the v14 upgrade documentation
-- [discord.js#8551](https://github.com/discordjs/discord.js/pull/8551) (2022-08-23): types(GuildChannelManager): correct fetch return type (v13)
-- [discord.js#8549](https://github.com/discordjs/discord.js/pull/8549) (2022-08-23): types(GuildChannelManager): correct `fetch` return type
-- [discord.js#8469](https://github.com/discordjs/discord.js/pull/8469) (2022-08-10): types(Message): correct `bulkDelete` return type (v13)
-- [discord.js#8465](https://github.com/discordjs/discord.js/pull/8465) (2022-08-10): types(Message): correct `bulkDelete` return type
-- [discord.js#8421](https://github.com/discordjs/discord.js/pull/8421) (2022-08-03): docs(AttachmentBuilder): fix #8407
+- [#8551](https://github.com/discordjs/discord.js/pull/8551) (2022-08-23): types(GuildChannelManager): correct fetch return type (v13)
+- [#8549](https://github.com/discordjs/discord.js/pull/8549) (2022-08-23): types(GuildChannelManager): correct `fetch` return type
+- [#8469](https://github.com/discordjs/discord.js/pull/8469) (2022-08-10): types(Message): correct `bulkDelete` return type (v13)
+- [#8465](https://github.com/discordjs/discord.js/pull/8465) (2022-08-10): types(Message): correct `bulkDelete` return type
+- [#8421](https://github.com/discordjs/discord.js/pull/8421) (2022-08-03): docs(AttachmentBuilder): fix #8407
 
 ## [Scratch Addons](https://scratchaddons.com/) _(JavaScript)_ - Browser extention with helpful utilities and themes for Scratch
 
@@ -121,8 +121,8 @@ Significant contributions that I have made to various open-source projects over 
 
 ## [highlight.js](https://highlightjs.org/) _(JavaScript)_ - Multi-language code syntax highlighter
 
-- [highlight.js#2965](https://github.com/highlightjs/highlight.js/pull/2965) (2021-01-19): Add missing comma to SUPPORTED_LANGUAGES.md
-- [highlight.js#2867](https://github.com/highlightjs/highlight.js/pull/2867) (2020-11-15): Add BBcode to language table
+- [#2965](https://github.com/highlightjs/highlight.js/pull/2965) (2021-01-19): Add missing comma to SUPPORTED_LANGUAGES.md
+- [#2867](https://github.com/highlightjs/highlight.js/pull/2867) (2020-11-15): Add BBcode to language table
 - [highlightjs-bbcode#1](https://github.com/highlightjs/highlightjs-bbcode/pull/1) (2020-11-15): Change robots-txt to bbcode
 
 ## Misc
