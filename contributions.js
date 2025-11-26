@@ -56,7 +56,9 @@ const repos = {
 const indexed = Object.entries(
 	Object.groupBy(allPulls, (pull) => {
 		const parts = pull.url.split("/");
-		return orgs[parts[4]] ?? repos[`${parts[4]}/${parts[5]}`] ?? parts[4] in HEADERS ? parts[4] : parts[5];
+		return (orgs[parts[4]] ?? repos[`${parts[4]}/${parts[5]}`] ?? parts[4] in HEADERS) ?
+				parts[4]
+			:	parts[5];
 	}),
 );
 const combined = indexed.reduce(
