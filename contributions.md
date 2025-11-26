@@ -2,50 +2,49 @@
 
 Significant contributions that I have made to various open-source projects over the past few years.
 
-## ichard26
+## [Black](https://black.readthedocs.io/en/stable/) _(Python)_ - Opinionated and uncompromising Python code formatter
 
+### Maintainer since January 2025
+
+- [#4868](https://github.com/psf/black/pull/4868) (2025-11-26): Fix syntax in diff-shades conditional for compare job
+- [#4867](https://github.com/psf/black/pull/4867) (2025-11-25): Minor CI improvements
 - [diff-shades#20](https://github.com/ichard26/diff-shades/pull/20) (2025-11-25): Update Python version requirements and arguments
+- [#4854](https://github.com/psf/black/pull/4854) (2025-11-21): Fix `fix_fmt_skip_in_one_liners` crashing on annotated parameters
+- [#4853](https://github.com/psf/black/pull/4853) (2025-11-21): Fix `fix_fmt_skip_in_one_liners` crashing on `with` statements
+- [#4836](https://github.com/psf/black/pull/4836) (2025-11-10): Add new changelog
+- [#4830](https://github.com/psf/black/pull/4830) (2025-11-09): fix windows wheels
+- [#4801](https://github.com/psf/black/pull/4801) (2025-10-19): doc: Add note to changelog to use PR numbers
+- [#4799](https://github.com/psf/black/pull/4799) (2025-10-18): Revert "ci: Run diff-shades on unstable instead of preview (#4741)"
+- [#4798](https://github.com/psf/black/pull/4798) (2025-10-18): chore: gitignore .pyd files
+- [#4767](https://github.com/psf/black/pull/4767) (2025-09-26): ci: try running diff-shades runs concurrently
+- [#4766](https://github.com/psf/black/pull/4766) (2025-09-25): ci: ignore `#\r` in Fuzz
+- [#4760](https://github.com/psf/black/pull/4760) (2025-09-20): Move `multiline_string_handling` from unstable to preview
+- [#4745](https://github.com/psf/black/pull/4745) (2025-09-11): Fix mypy type issue
+- [#4741](https://github.com/psf/black/pull/4741) (2025-08-31): ci: Run diff-shades on unstable instead of preview
 - [diff-shades#19](https://github.com/ichard26/diff-shades/pull/19) (2025-08-24): Add `--force-unstable-style` flag
-
-## psf
-
-- [black#4868](https://github.com/psf/black/pull/4868) (2025-11-26): Fix syntax in diff-shades conditional for compare job
-- [black#4867](https://github.com/psf/black/pull/4867) (2025-11-25): Minor CI improvements
-- [black#4854](https://github.com/psf/black/pull/4854) (2025-11-21): Fix `fix_fmt_skip_in_one_liners` crashing on annotated parameters
-- [black#4853](https://github.com/psf/black/pull/4853) (2025-11-21): Fix `fix_fmt_skip_in_one_liners` crashing on `with` statements
-- [black#4836](https://github.com/psf/black/pull/4836) (2025-11-10): Add new changelog
-- [black#4830](https://github.com/psf/black/pull/4830) (2025-11-09): fix windows wheels
-- [black#4801](https://github.com/psf/black/pull/4801) (2025-10-19): doc: Add note to changelog to use PR numbers
-- [black#4799](https://github.com/psf/black/pull/4799) (2025-10-18): Revert "ci: Run diff-shades on unstable instead of preview (#4741)"
-- [black#4798](https://github.com/psf/black/pull/4798) (2025-10-18): chore: gitignore .pyd files
-- [black#4767](https://github.com/psf/black/pull/4767) (2025-09-26): ci: try running diff-shades runs concurrently
-- [black#4766](https://github.com/psf/black/pull/4766) (2025-09-25): ci: ignore `#\r` in Fuzz
-- [black#4760](https://github.com/psf/black/pull/4760) (2025-09-20): Move `multiline_string_handling` from unstable to preview
-- [black#4745](https://github.com/psf/black/pull/4745) (2025-09-11): Fix mypy type issue
-- [black#4741](https://github.com/psf/black/pull/4741) (2025-08-31): ci: Run diff-shades on unstable instead of preview
-- [black#4716](https://github.com/psf/black/pull/4716) (2025-07-27): Update PR Template
-- [black#4699](https://github.com/psf/black/pull/4699) (2025-06-20): Wrap the `in` clause of comprehensions across lines if necessary
-- [black#4665](https://github.com/psf/black/pull/4665) (2025-05-12): CI: Remove now-uneeded workarounds
-- [black#4662](https://github.com/psf/black/pull/4662) (2025-05-04): Update Prettier pre-commit configuration
-- [black#4657](https://github.com/psf/black/pull/4657) (2025-04-26): Improve `multiline_string_handling` with ternaries and dictionaries
-- [black#4561](https://github.com/psf/black/pull/4561) (2025-01-26): Move `wrap_long_dict_values_in_parens` to the preview style
-- [black#4537](https://github.com/psf/black/pull/4537) (2024-12-23): Fix type error
-- [black#4377](https://github.com/psf/black/pull/4377) (2024-06-06): fix: Don't remove parenthesis around long dictionary values
-- [black#4312](https://github.com/psf/black/pull/4312) (2024-04-17): fix: Remove parenthesis around sole list items
-- [black#4289](https://github.com/psf/black/pull/4289) (2024-03-22): fix: Stop moving multiline strings to a new line unless inside brackets
-- [black#4257](https://github.com/psf/black/pull/4257) (2024-02-28): chore: Refactor `delimiter_split()`
-- [black#4248](https://github.com/psf/black/pull/4248) (2024-02-22): fix: Don't move comments while splitting delimiters
-- [black#4218](https://github.com/psf/black/pull/4218) (2024-02-08): fix: Don't remove comments along with parens
-- [black#4202](https://github.com/psf/black/pull/4202) (2024-02-01): Make trailing comma logic more consise
-- [black#4194](https://github.com/psf/black/pull/4194) (2024-01-29): docs: Refactor pycodestyle/Flake8 compatibility docs
-- [black#4164](https://github.com/psf/black/pull/4164) (2024-01-23): fix: Consistently add trailing comma on typed parameters
-- [black#4155](https://github.com/psf/black/pull/4155) (2024-01-17): fix: Don't allow unparenthesizing walruses
-- [black#4146](https://github.com/psf/black/pull/4146) (2024-01-08): fix: Don't normalize whitespace before fmt:skip comments
-- [black#4109](https://github.com/psf/black/pull/4109) (2023-12-13): fix: In subscripts, treat walruses just like other binary operators
-- [black#4090](https://github.com/psf/black/pull/4090) (2023-12-08): docs: Move `fmt: off` docs
-- [black#4076](https://github.com/psf/black/pull/4076) (2023-11-28): docs: Unify option descriptions between `--help` and `the_basics.md`
-- [black#4072](https://github.com/psf/black/pull/4072) (2023-11-27): docs: Clarify include/exclude documentation
-- [black#4048](https://github.com/psf/black/pull/4048) (2023-11-17): docs: Document target version inference
+- [#4716](https://github.com/psf/black/pull/4716) (2025-07-27): Update PR Template
+- [#4699](https://github.com/psf/black/pull/4699) (2025-06-20): Wrap the `in` clause of comprehensions across lines if necessary
+- [#4665](https://github.com/psf/black/pull/4665) (2025-05-12): CI: Remove now-uneeded workarounds
+- [#4662](https://github.com/psf/black/pull/4662) (2025-05-04): Update Prettier pre-commit configuration
+- [#4657](https://github.com/psf/black/pull/4657) (2025-04-26): Improve `multiline_string_handling` with ternaries and dictionaries
+- [#4561](https://github.com/psf/black/pull/4561) (2025-01-26): Move `wrap_long_dict_values_in_parens` to the preview style
+- [#4537](https://github.com/psf/black/pull/4537) (2024-12-23): Fix type error
+- [#4377](https://github.com/psf/black/pull/4377) (2024-06-06): fix: Don't remove parenthesis around long dictionary values
+- [#4312](https://github.com/psf/black/pull/4312) (2024-04-17): fix: Remove parenthesis around sole list items
+- [#4289](https://github.com/psf/black/pull/4289) (2024-03-22): fix: Stop moving multiline strings to a new line unless inside brackets
+- [#4257](https://github.com/psf/black/pull/4257) (2024-02-28): chore: Refactor `delimiter_split()`
+- [#4248](https://github.com/psf/black/pull/4248) (2024-02-22): fix: Don't move comments while splitting delimiters
+- [#4218](https://github.com/psf/black/pull/4218) (2024-02-08): fix: Don't remove comments along with parens
+- [#4202](https://github.com/psf/black/pull/4202) (2024-02-01): Make trailing comma logic more consise
+- [#4194](https://github.com/psf/black/pull/4194) (2024-01-29): docs: Refactor pycodestyle/Flake8 compatibility docs
+- [#4164](https://github.com/psf/black/pull/4164) (2024-01-23): fix: Consistently add trailing comma on typed parameters
+- [#4155](https://github.com/psf/black/pull/4155) (2024-01-17): fix: Don't allow unparenthesizing walruses
+- [#4146](https://github.com/psf/black/pull/4146) (2024-01-08): fix: Don't normalize whitespace before fmt:skip comments
+- [#4109](https://github.com/psf/black/pull/4109) (2023-12-13): fix: In subscripts, treat walruses just like other binary operators
+- [#4090](https://github.com/psf/black/pull/4090) (2023-12-08): docs: Move `fmt: off` docs
+- [#4076](https://github.com/psf/black/pull/4076) (2023-11-28): docs: Unify option descriptions between `--help` and `the_basics.md`
+- [#4072](https://github.com/psf/black/pull/4072) (2023-11-27): docs: Clarify include/exclude documentation
+- [#4048](https://github.com/psf/black/pull/4048) (2023-11-17): docs: Document target version inference
 
 ## docs
 
