@@ -59,7 +59,8 @@ const indexed = Object.entries(
 		return (
 			orgs[parts[4]]
 			?? repos[`${parts[4]}/${parts[5]}`]
-			?? (parts[4] in HEADERS ? parts[4] : parts[5])
+			?? (parts[4] in HEADERS ? parts[4] : 
+			 (parts[5] in HEADERS ? parts[5] : `${parts[4]}/${parts[5]}`))
 		);
 	}),
 );
