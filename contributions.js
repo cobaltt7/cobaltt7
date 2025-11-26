@@ -82,7 +82,7 @@ const formattedProjects = combined.map(
 				const parts = pull.url.split("/");
 				return `- [${
 					project === "Misc" ? `${parts[4]}/${parts[5]}`
-					: parts[5] == project ? ""
+					: parts[5].replaceAll(".", "") == project ? ""
 					: parts[5]
 				}#${
 					pull.number
