@@ -56,7 +56,7 @@ const repos = {
 const indexed = Object.entries(
 	Object.groupBy(allPulls, (pull) => {
 		const parts = pull.url.split("/");
-		return orgs[parts[4]] ?? repos[`${parts[4]}/${parts[5]}`] ?? `${parts[4]}`;
+		return orgs[parts[4]] ?? repos[`${parts[4]}/${parts[5]}`] ?? `${parts[5]}`;
 	}),
 );
 const combined = indexed.reduce(
@@ -74,7 +74,7 @@ const formattedProjects = combined.map(
 			.toReversed()
 			.map((pull) => {
 				const parts = pull.url.split("/");
-				return `- [${project === "Misc" ? `${parts[4]}/${parts[5]}` : parts[5]}#${
+				return `- [${project === "Misc" ? `${parts[4]}/${parts[5]}` : parts[5] == project ? "" : parts[5]}#${
 					pull.number
 				}](${pull.html_url}) (${pull.created_at.split("T")[0]}): ${pull.title}`;
 			})
