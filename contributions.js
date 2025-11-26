@@ -74,7 +74,11 @@ const formattedProjects = combined.map(
 			.toReversed()
 			.map((pull) => {
 				const parts = pull.url.split("/");
-				return `- [${project === "Misc" ? `${parts[4]}/${parts[5]}` : parts[5] == project ? "" : parts[5]}#${
+				return `- [${
+					project === "Misc" ? `${parts[4]}/${parts[5]}`
+					: parts[5] == project ? ""
+					: parts[5]
+				}#${
 					pull.number
 				}](${pull.html_url}) (${pull.created_at.split("T")[0]}): ${pull.title}`;
 			})
