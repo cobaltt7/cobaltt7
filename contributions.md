@@ -46,11 +46,6 @@ Significant contributions that I have made to various open-source projects over 
 - [#4072](https://github.com/psf/black/pull/4072) (2023-11-27): docs: Clarify include/exclude documentation
 - [#4048](https://github.com/psf/black/pull/4048) (2023-11-17): docs: Document target version inference
 
-## docs
-
-- [#288](https://github.com/railwayapp/docs/pull/288) (2023-06-24): Change example RAILWAY_VOLUME_MOUNT_PATH
-- [#48](https://github.com/TurboWarp/docs/pull/48) (2022-10-30): Fix grammar in 4.4.md
-
 ## [discord.js](https://discord.js.org/) _(JavaScript + TypeScript)_ - Powerful JavaScript libraries for building Discord bots
 
 - [discord.js#10591](https://github.com/discordjs/discord.js/pull/10591) (2024-11-05): fix(GuildAuditLogEntry)!: Fix some incorrect types and runtime logic
@@ -135,9 +130,11 @@ Significant contributions that I have made to various open-source projects over 
 - [Ballsdex-Team/BallsDex-DiscordBot#460](https://github.com/Ballsdex-Team/BallsDex-DiscordBot/pull/460) (2024-11-11): Show the actual emoji instead of just the ID on the admin panel
 - [MiniDiscordThemes/Snippets#2](https://github.com/MiniDiscordThemes/Snippets/pull/2) (2024-04-06): fix(AvatarDecorationCheckmark): Ignore clown decoration
 - [pandas-dev/pandas#55427](https://github.com/pandas-dev/pandas/pull/55427) (2023-10-06): DOC: Remove outdated docs about NumPy's broadcasting
+- [railwayapp/docs#288](https://github.com/railwayapp/docs/pull/288) (2023-06-24): Change example RAILWAY_VOLUME_MOUNT_PATH
 - [Rapptz/discord.py#9410](https://github.com/Rapptz/discord.py/pull/9410) (2023-05-17): Fix `channel_icon_change`'s `system_message`
 - [BirthdayyBot/BirthdayyBot#173](https://github.com/BirthdayyBot/BirthdayyBot/pull/173) (2023-04-04): Fix permissions for `/birthday update` and `/birthday remove`
 - [antfu/vscode-file-nesting-config#147](https://github.com/antfu/vscode-file-nesting-config/pull/147) (2023-02-20): feat: add npm-shrinkwrap.json
+- [TurboWarp/docs#48](https://github.com/TurboWarp/docs/pull/48) (2022-10-30): Fix grammar in 4.4.md
 - [jeffalo/ocular#137](https://github.com/jeffalo/ocular/pull/137) (2022-01-11): Fix broken link
 - [bryanburgers/node-mustache-express#33](https://github.com/bryanburgers/node-mustache-express/pull/33) (2021-08-05): Tell the user what file errors occur in
 - [stewartmcgown/grammarly-api#27](https://github.com/stewartmcgown/grammarly-api/pull/27) (2021-06-05): Dialect customization
