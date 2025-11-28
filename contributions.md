@@ -6,6 +6,7 @@ Significant contributions that I have made to various open-source projects over 
 
 ### Maintainer since January 2025
 
+- [#4874](https://github.com/psf/black/pull/4874) (2025-11-28): Remove old `noqa` comments and disable `C901` globally
 - [#4868](https://github.com/psf/black/pull/4868) (2025-11-26): Fix syntax in diff-shades conditional for compare job
 - [#4867](https://github.com/psf/black/pull/4867) (2025-11-25): Minor CI improvements
 - [diff-shades#20](https://github.com/ichard26/diff-shades/pull/20) (2025-11-25): Update Python version requirements and arguments
