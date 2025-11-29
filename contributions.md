@@ -6,10 +6,13 @@ Significant contributions that I have made to various open-source projects over 
 
 ### Maintainer since January 2025
 
+- [#4876](https://github.com/psf/black/pull/4876) (2025-11-29): Attempt to fix Docker build failures
 - [#4874](https://github.com/psf/black/pull/4874) (2025-11-28): Remove old `noqa` comments and disable `C901` globally
 - [#4868](https://github.com/psf/black/pull/4868) (2025-11-26): Fix syntax in diff-shades conditional for compare job
 - [#4867](https://github.com/psf/black/pull/4867) (2025-11-25): Minor CI improvements
 - [diff-shades#20](https://github.com/ichard26/diff-shades/pull/20) (2025-11-25): Update Python version requirements and arguments
+- [#4856](https://github.com/psf/black/pull/4856) (2025-11-22): Fix crashes when fmt directives are indented
+- [#4855](https://github.com/psf/black/pull/4855) (2025-11-21): Fix `fmt: skip` skipping the line after instead of the line it's on
 - [#4854](https://github.com/psf/black/pull/4854) (2025-11-21): Fix `fix_fmt_skip_in_one_liners` crashing on annotated parameters
 - [#4853](https://github.com/psf/black/pull/4853) (2025-11-21): Fix `fix_fmt_skip_in_one_liners` crashing on `with` statements
 - [#4836](https://github.com/psf/black/pull/4836) (2025-11-10): Add new changelog
