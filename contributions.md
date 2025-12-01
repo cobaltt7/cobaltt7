@@ -6,6 +6,7 @@ Significant contributions that I have made to various open-source projects over 
 
 ### Maintainer since January 2025
 
+- [#4878](https://github.com/psf/black/pull/4878) (2025-12-01): Pin Hatch to hopefully fix Docker builds
 - [#4876](https://github.com/psf/black/pull/4876) (2025-11-29): Attempt to fix Docker build failures
 - [#4874](https://github.com/psf/black/pull/4874) (2025-11-28): Remove old `noqa` comments and disable `C901` globally
 - [#4868](https://github.com/psf/black/pull/4868) (2025-11-26): Fix syntax in diff-shades conditional for compare job
