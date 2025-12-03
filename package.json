@@ -10,7 +10,7 @@
 	"prettier": "@redguy12/prettier-config",
 	"devDependencies": {
 		"@redguy12/prettier-config": "3.4.4",
-		"@types/node": "<=22.17",
+		"@types/node": "<=24.11",
 		"prettier": "3.7.1"
 	},
 	"engines": {
