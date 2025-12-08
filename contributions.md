@@ -6,6 +6,9 @@ Significant contributions that I have made to various open-source projects over 
 
 ### Maintainer since January 2025
 
+- [#4895](https://github.com/psf/black/pull/4895) (2025-12-08): Pin actions/checkout@v5.0.0
+- [#4894](https://github.com/psf/black/pull/4894) (2025-12-08): Fix new lines being added after imports with `# fmt: skip` on them
+- [#4893](https://github.com/psf/black/pull/4893) (2025-12-08): Revert "Fix `# fmt: skip` ignored in deeply nested expressions"
 - [#4891](https://github.com/psf/black/pull/4891) (2025-12-07): Prepare 25.12.0 release
 - [#4878](https://github.com/psf/black/pull/4878) (2025-12-01): Pin Hatch to hopefully fix Docker builds
 - [#4876](https://github.com/psf/black/pull/4876) (2025-11-29): Attempt to fix Docker build failures
