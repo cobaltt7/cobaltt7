@@ -6,6 +6,7 @@ Significant contributions that I have made to various open-source projects over 
 
 ### Maintainer since January 2025
 
+- [pytokens#19](https://github.com/tusharsadhwani/pytokens/pull/19) (2026-01-23): Don't emit dedents after an escaped new line
 - [#4964](https://github.com/psf/black/pull/4964) (2026-01-19): Don't double-decode input, causing non-UTF-8 files to be corrupted
 - [#4962](https://github.com/psf/black/pull/4962) (2026-01-18): Add new changelog
 - [#4958](https://github.com/psf/black/pull/4958) (2026-01-15): Handle pathspec v1 changes
@@ -141,7 +142,6 @@ Significant contributions that I have made to various open-source projects over 
 
 ## Misc
 
-- [tusharsadhwani/pytokens#19](https://github.com/tusharsadhwani/pytokens/pull/19) (2026-01-23): Don't emit dedents after an escaped new line
 - [Ballsdex-Team/BallsDex-DiscordBot#460](https://github.com/Ballsdex-Team/BallsDex-DiscordBot/pull/460) (2024-11-11): Show the actual emoji instead of just the ID on the admin panel
 - [MiniDiscordThemes/Snippets#2](https://github.com/MiniDiscordThemes/Snippets/pull/2) (2024-04-06): fix(AvatarDecorationCheckmark): Ignore clown decoration
 - [pandas-dev/pandas#55427](https://github.com/pandas-dev/pandas/pull/55427) (2023-10-06): DOC: Remove outdated docs about NumPy's broadcasting
