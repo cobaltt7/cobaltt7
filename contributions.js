@@ -51,6 +51,7 @@ const repos = {
 	"ichard26/diff-shades": "black",
 	"psf/black": "black",
 	"Rapptz/discord.py": "discordpy",
+	"tusharsadhwani/pytokens": "black",
 };
 
 const indexed = Object.entries(
