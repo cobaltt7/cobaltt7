@@ -6,6 +6,7 @@ Significant contributions that I have made to various open-source projects over 
 
 ### Maintainer since January 2025
 
+- [#5000](https://github.com/psf/black/pull/5000) (2026-02-21): Fix `wrap_comprehension_in` docs
 - [pytokens#19](https://github.com/tusharsadhwani/pytokens/pull/19) (2026-01-23): Don't emit dedents after an escaped new line
 - [#4964](https://github.com/psf/black/pull/4964) (2026-01-19): Don't double-decode input, causing non-UTF-8 files to be corrupted
 - [#4962](https://github.com/psf/black/pull/4962) (2026-01-18): Add new changelog
