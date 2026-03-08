@@ -6,6 +6,8 @@ Significant contributions that I have made to various open-source projects over 
 
 ### Maintainer since January 2025
 
+- [#5036](https://github.com/psf/black/pull/5036) (2026-03-08): Add new changelog
+- [#5035](https://github.com/psf/black/pull/5035) (2026-03-08): Minor release patches
 - [#5028](https://github.com/psf/black/pull/5028) (2026-03-06): Revert "Bump hatch from 1.15.1 to 1.16.4"
 - [#5012](https://github.com/psf/black/pull/5012) (2026-03-02): Fix Dependabot config
 - [#5011](https://github.com/psf/black/pull/5011) (2026-03-01): Add an upper bound to `virtualenv` in the build deps
