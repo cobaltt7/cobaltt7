@@ -6,6 +6,7 @@ Significant contributions that I have made to various open-source projects over 
 
 ### Maintainer since January 2025
 
+- [#5115](https://github.com/psf/black/pull/5115) (2026-04-24): docs: update deprecated PEP URLs to peps.python.org
 - [#5098](https://github.com/psf/black/pull/5098) (2026-04-13): Revert "[pre-commit.ci] pre-commit autoupdate"
 - [#5094](https://github.com/psf/black/pull/5094) (2026-04-12): Update old comments & add back Hatch plugins
 - [#5069](https://github.com/psf/black/pull/5069) (2026-03-30): Add tests for #3350
