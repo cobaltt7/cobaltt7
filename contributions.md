@@ -82,5 +82,3 @@ Significant contributions that I have made to various open-source projects over 
 - [#8421](https://github.com/discordjs/discord.js/pull/8421) (2022-08-03): docs(AttachmentBuilder): fix #8407
 
 ## Misc
-
-
