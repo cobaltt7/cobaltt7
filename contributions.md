@@ -17,10 +17,12 @@ Significant contributions that I have made to various open-source projects over 
 - [#5011](https://github.com/psf/black/pull/5011) (2026-03-01): Add an upper bound to `virtualenv` in the build deps
 - [#5000](https://github.com/psf/black/pull/5000) (2026-02-21): Fix `wrap_comprehension_in` docs
 - [#4978](https://github.com/psf/black/pull/4978) (2026-02-01): A few more small CI tweaks
+- [pytokens#19](https://github.com/tusharsadhwani/pytokens/pull/19) (2026-01-23): Don't emit dedents after an escaped new line
 - [#4964](https://github.com/psf/black/pull/4964) (2026-01-19): Don't double-decode input, causing non-UTF-8 files to be corrupted
 - [#4962](https://github.com/psf/black/pull/4962) (2026-01-18): Add new changelog
 - [#4958](https://github.com/psf/black/pull/4958) (2026-01-15): Handle pathspec v1 changes
 - [#4928](https://github.com/psf/black/pull/4928) (2025-12-29): Various CI and doc refactors
+- [#4892](https://github.com/psf/black/pull/4892) (2025-12-07): Prepare 2026.1.0 release
 - [#4878](https://github.com/psf/black/pull/4878) (2025-12-01): Pin Hatch to hopefully fix Docker builds
 - [#4876](https://github.com/psf/black/pull/4876) (2025-11-29): Attempt to fix Docker build failures
 - [#4874](https://github.com/psf/black/pull/4874) (2025-11-28): Remove old `noqa` comments and disable `C901` globally
@@ -70,6 +72,9 @@ Significant contributions that I have made to various open-source projects over 
 - [#10156](https://github.com/discordjs/discord.js/pull/10156) (2024-02-27): fix(Faces): Escape backslash in `Shrug`
 - [#9847](https://github.com/discordjs/discord.js/pull/9847) (2023-09-22): feat(BaseChannel): Add `isThreadOnly()`
 - [#9648](https://github.com/discordjs/discord.js/pull/9648) (2023-06-13): fix(ThreadManager): Fix internal crash upon conditionally resolving thread members
+- [#8799](https://github.com/discordjs/discord.js/pull/8799) (2022-10-30): fix(escapeMarkdown): fix double escaping (v13)
+- [#8798](https://github.com/discordjs/discord.js/pull/8798) (2022-10-30): fix(escapeMarkdown): fix double escaping
+- [#8790](https://github.com/discordjs/discord.js/pull/8790) (2022-10-27): fix(Transfomers): call `.toJSON` in `toSnakeCase`
 - [#8703](https://github.com/discordjs/discord.js/pull/8703) (2022-10-04): feat(Util): backport `escapeMarkdown` PRs to v13
 - [#8701](https://github.com/discordjs/discord.js/pull/8701) (2022-10-04): feat(Util): escape more markdown characters
 - [#8682](https://github.com/discordjs/discord.js/pull/8682) (2022-09-26): feat(EmbedBuilder): add `.length`
@@ -109,10 +114,12 @@ Significant contributions that I have made to various open-source projects over 
 - [website-v2#140](https://github.com/ScratchAddons/website-v2/pull/140) (2021-12-21): Add twemoji to contributors page
 - [#3866](https://github.com/ScratchAddons/ScratchAddons/pull/3866) (2021-12-01): fix(addon): `customize-avatar-border` - hide `Outline color` when `Hide outline` is off
 - [#3587](https://github.com/ScratchAddons/ScratchAddons/pull/3587) (2021-09-30): Add a delay option to mediarecorder
+- [#3585](https://github.com/ScratchAddons/ScratchAddons/pull/3585) (2021-09-30): Updates to scratch messaging ui
 - [#3547](https://github.com/ScratchAddons/ScratchAddons/pull/3547) (2021-09-23): Bump to v1.21.0-prerelease
 - [#3228](https://github.com/ScratchAddons/ScratchAddons/pull/3228) (2021-08-03): Bump to stable
 - [#3151](https://github.com/ScratchAddons/ScratchAddons/pull/3151) (2021-07-29): Replace `settingsMatch` with more general `if`
 - [website-v2#70](https://github.com/ScratchAddons/website-v2/pull/70) (2021-06-23): safeMsg is not available in persistent scripts
+- [#2492](https://github.com/ScratchAddons/ScratchAddons/pull/2492) (2021-05-14): Migrate `exact-count` to scratch-www
 - [#2318](https://github.com/ScratchAddons/ScratchAddons/pull/2318) (2021-04-28): css variables aren't being set bug
 - [#2289](https://github.com/ScratchAddons/ScratchAddons/pull/2289) (2021-04-25): remove "check format" from format code action
 - [#2186](https://github.com/ScratchAddons/ScratchAddons/pull/2186) (2021-04-16): Remove force option from dango-rain
