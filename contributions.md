@@ -22,7 +22,11 @@ Significant contributions that I have made to various open-source projects over 
 - [#4962](https://github.com/psf/black/pull/4962) (2026-01-18): Add new changelog
 - [#4958](https://github.com/psf/black/pull/4958) (2026-01-15): Handle pathspec v1 changes
 - [#4928](https://github.com/psf/black/pull/4928) (2025-12-29): Various CI and doc refactors
+- [#4895](https://github.com/psf/black/pull/4895) (2025-12-08): Pin actions/checkout@v5.0.0
+- [#4894](https://github.com/psf/black/pull/4894) (2025-12-08): Fix new lines being added after imports with `# fmt: skip` on them
+- [#4893](https://github.com/psf/black/pull/4893) (2025-12-08): Revert "Fix `# fmt: skip` ignored in deeply nested expressions"
 - [#4892](https://github.com/psf/black/pull/4892) (2025-12-07): Prepare 2026.1.0 release
+- [#4891](https://github.com/psf/black/pull/4891) (2025-12-07): Prepare 25.12.0 release
 - [#4878](https://github.com/psf/black/pull/4878) (2025-12-01): Pin Hatch to hopefully fix Docker builds
 - [#4876](https://github.com/psf/black/pull/4876) (2025-11-29): Attempt to fix Docker build failures
 - [#4874](https://github.com/psf/black/pull/4874) (2025-11-28): Remove old `noqa` comments and disable `C901` globally
@@ -35,6 +39,9 @@ Significant contributions that I have made to various open-source projects over 
 - [#4853](https://github.com/psf/black/pull/4853) (2025-11-21): Fix `fix_fmt_skip_in_one_liners` crashing on `with` statements
 - [#4836](https://github.com/psf/black/pull/4836) (2025-11-10): Add new changelog
 - [#4830](https://github.com/psf/black/pull/4830) (2025-11-09): fix windows wheels
+- [#4801](https://github.com/psf/black/pull/4801) (2025-10-19): doc: Add note to changelog to use PR numbers
+- [#4799](https://github.com/psf/black/pull/4799) (2025-10-18): Revert "ci: Run diff-shades on unstable instead of preview (#4741)"
+- [#4798](https://github.com/psf/black/pull/4798) (2025-10-18): chore: gitignore .pyd files
 - [#4767](https://github.com/psf/black/pull/4767) (2025-09-26): ci: try running diff-shades runs concurrently
 - [#4766](https://github.com/psf/black/pull/4766) (2025-09-25): ci: ignore `#\r` in Fuzz
 - [#4760](https://github.com/psf/black/pull/4760) (2025-09-20): Move `multiline_string_handling` from unstable to preview
@@ -60,6 +67,10 @@ Significant contributions that I have made to various open-source projects over 
 - [#4155](https://github.com/psf/black/pull/4155) (2024-01-17): fix: Don't allow unparenthesizing walruses
 - [#4146](https://github.com/psf/black/pull/4146) (2024-01-08): fix: Don't normalize whitespace before fmt:skip comments
 - [#4109](https://github.com/psf/black/pull/4109) (2023-12-13): fix: In subscripts, treat walruses just like other binary operators
+- [#4090](https://github.com/psf/black/pull/4090) (2023-12-08): docs: Move `fmt: off` docs
+- [#4076](https://github.com/psf/black/pull/4076) (2023-11-28): docs: Unify option descriptions between `--help` and `the_basics.md`
+- [#4072](https://github.com/psf/black/pull/4072) (2023-11-27): docs: Clarify include/exclude documentation
+- [#4048](https://github.com/psf/black/pull/4048) (2023-11-17): docs: Document target version inference
 
 ## [discord.js](https://discord.js.org/) _(JavaScript + TypeScript)_ - Powerful JavaScript libraries for building Discord bots
 
