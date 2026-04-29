@@ -38,7 +38,7 @@ const HEADERS = {
 	ScratchAddons:
 		`[Scratch Addons](https://scratchaddons.com/) _(JavaScript)_ - Browser extention with helpful utilities and themes for Scratch`
 		+ `\n\n`
-		+ `### Active maintainer from April 2021 to December 2022; Community moderator through April 2025`,
+		+ `### Active maintainer from April 2021 to December 2022; Community moderator & developer through April 2025`,
 	pandas: `[pandas](https://pandas.pydata.org/) _(Python)_ - Tabular data manipulation tool and Python library`,
 	discordpy: `[discord.py](https://discordpy.readthedocs.io/en/stable/) _(Python)_ - Python wrapper around the Discord API and Discord bot framework`,
 	ballsdex: `[BallsDex](https://discord.gg/KPmnDEFPpa) _(Python)_ - Discord bot to collect and exchange Countryballs`,
