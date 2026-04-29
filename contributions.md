@@ -53,15 +53,6 @@ Significant contributions that I have made to various open-source projects over 
 - [#4194](https://github.com/psf/black/pull/4194) (2024-01-29): docs: Refactor pycodestyle/Flake8 compatibility docs
 - [#4146](https://github.com/psf/black/pull/4146) (2024-01-08): fix: Don't normalize whitespace before fmt:skip comments
 
-## [Scratch Addons](https://scratchaddons.com/) _(JavaScript)_ - Browser extention with helpful utilities and themes for Scratch
-
-### Active maintainer from April 2021 to December 2022; Reputable community member since
-
-- [manifest-schema#74](https://github.com/ScratchAddons/manifest-schema/pull/74) (2025-04-22): Update previews, add relatedAddons, remove popup script/html
-- [#5519](https://github.com/ScratchAddons/ScratchAddons/pull/5519) (2022-12-30): Move more md files to .github
-- [#5191](https://github.com/ScratchAddons/ScratchAddons/pull/5191) (2022-10-13): Update RedGuy7 credit links
-- [#5048](https://github.com/ScratchAddons/ScratchAddons/pull/5048) (2022-08-29): Bump to 1.29-pre
-
 ## [discord.js](https://discord.js.org/) _(JavaScript + TypeScript)_ - Powerful JavaScript libraries for building Discord bots
 
 - [#10184](https://github.com/discordjs/discord.js/pull/10184) (2024-03-20): fix(types): Export `ReadonlyCollection`
@@ -81,4 +72,19 @@ Significant contributions that I have made to various open-source projects over 
 - [#8465](https://github.com/discordjs/discord.js/pull/8465) (2022-08-10): types(Message): correct `bulkDelete` return type
 - [#8421](https://github.com/discordjs/discord.js/pull/8421) (2022-08-03): docs(AttachmentBuilder): fix #8407
 
+## [Scratch Addons](https://scratchaddons.com/) _(JavaScript)_ - Browser extention with helpful utilities and themes for Scratch
+
+### Active maintainer from April 2021 to December 2022; Reputable community member since
+
+- [manifest-schema#74](https://github.com/ScratchAddons/manifest-schema/pull/74) (2025-04-22): Update previews, add relatedAddons, remove popup script/html
+- [#5519](https://github.com/ScratchAddons/ScratchAddons/pull/5519) (2022-12-30): Move more md files to .github
+- [#5191](https://github.com/ScratchAddons/ScratchAddons/pull/5191) (2022-10-13): Update RedGuy7 credit links
+- [#5048](https://github.com/ScratchAddons/ScratchAddons/pull/5048) (2022-08-29): Bump to 1.29-pre
+- [#4146](https://github.com/ScratchAddons/ScratchAddons/pull/4146) (2022-01-28): Fix uncentered block-pallate-icons
+- [#3866](https://github.com/ScratchAddons/ScratchAddons/pull/3866) (2021-12-01): fix(addon): `customize-avatar-border` - hide `Outline color` when `Hide outline` is off
+- [#1226](https://github.com/ScratchAddons/ScratchAddons/pull/1226) (2021-01-07): Scrollable Scratchblocks
+- [scratchaddons.github.io#4](https://github.com/ScratchAddons/scratchaddons.github.io/pull/4) (2021-01-02): Better redirect page
+
 ## Misc
+
+- [jeffalo/ocular#137](https://github.com/jeffalo/ocular/pull/137) (2022-01-11): Fix broken link
