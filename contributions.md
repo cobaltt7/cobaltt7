@@ -6,6 +6,8 @@ Significant contributions that I have made to various open-source projects over 
 
 ### Maintainer since January 2025
 
+- [#5140](https://github.com/psf/black/pull/5140) (2026-05-18): Prepare release 26.5.1
+- [#5136](https://github.com/psf/black/pull/5136) (2026-05-18): CI Hotfixes
 - [#5134](https://github.com/psf/black/pull/5134) (2026-05-16): Fix publish binaries again on Windows
 - [#5133](https://github.com/psf/black/pull/5133) (2026-05-16): Fix publish binaries workflow
 - [#5131](https://github.com/psf/black/pull/5131) (2026-05-16): Prepare release 26.5.0
