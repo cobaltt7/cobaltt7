@@ -1,5 +1,5 @@
 // @ts-check
-/// <reference lib="es2024" />
+/// <reference lib="ES2025" />
 /// <reference types="node" />
 
 import { writeFile } from "node:fs/promises";
@@ -98,5 +98,5 @@ await writeFile(
 		+ `Significant contributions that I have made to various open-source projects over the past few years.\n\n`
 		+ formattedProjects.join("\n\n")
 		+ "\n",
-	"utf8",
+	"utf-8",
 );
