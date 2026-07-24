@@ -6,6 +6,8 @@ Significant contributions that I have made to various open-source projects over 
 
 ### Maintainer since January 2025
 
+- [#5255](https://github.com/psf/black/pull/5255) (2026-07-22): Bump myst-parser to 5.1.0
+- [#5254](https://github.com/psf/black/pull/5254) (2026-07-22): Bump cibuildwheel to 4.1.0
 - [#5248](https://github.com/psf/black/pull/5248) (2026-07-21): Bump prettier to 3.9.6
 - [#5159](https://github.com/psf/black/pull/5159) (2026-05-30): Bump Python version in CI
 - [#5140](https://github.com/psf/black/pull/5140) (2026-05-18): Prepare release 26.5.1
