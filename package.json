@@ -11,7 +11,7 @@
 	"devDependencies": {
 		"@redguy12/prettier-config": "3.4.5",
 		"@types/node": "<=24.15",
-		"prettier": "3.8.3"
+		"prettier": "3.9.6"
 	},
 	"engines": {
 		"node": "^24.15.0",
