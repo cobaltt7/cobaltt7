@@ -6,6 +6,7 @@ Significant contributions that I have made to various open-source projects over 
 
 ### Maintainer since January 2025
 
+- [#5294](https://github.com/psf/black/pull/5294) (2026-08-04): docs: fix typos in docstrings, and remove some unused code
 - [#5293](https://github.com/psf/black/pull/5293) (2026-08-04): fix PIP_UPLOADED_PRIOR_TO in Dockerfile
 - [#5258](https://github.com/psf/black/pull/5258) (2026-07-24): Ignore permission errors when reading cache
 - [#5255](https://github.com/psf/black/pull/5255) (2026-07-22): Bump myst-parser to 5.1.0
