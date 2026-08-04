@@ -6,6 +6,7 @@ Significant contributions that I have made to various open-source projects over 
 
 ### Maintainer since January 2025
 
+- [#5293](https://github.com/psf/black/pull/5293) (2026-08-04): fix PIP_UPLOADED_PRIOR_TO in Dockerfile
 - [#5258](https://github.com/psf/black/pull/5258) (2026-07-24): Ignore permission errors when reading cache
 - [#5255](https://github.com/psf/black/pull/5255) (2026-07-22): Bump myst-parser to 5.1.0
 - [#5254](https://github.com/psf/black/pull/5254) (2026-07-22): Bump cibuildwheel to 4.1.0
@@ -18,6 +19,7 @@ Significant contributions that I have made to various open-source projects over 
 - [#5133](https://github.com/psf/black/pull/5133) (2026-05-16): Fix publish binaries workflow
 - [#5131](https://github.com/psf/black/pull/5131) (2026-05-16): Prepare release 26.5.0
 - [#5115](https://github.com/psf/black/pull/5115) (2026-04-24): docs: update deprecated PEP URLs to peps.python.org
+- [#5101](https://github.com/psf/black/pull/5101) (2026-04-15): Run most CI on 3.15
 - [#5098](https://github.com/psf/black/pull/5098) (2026-04-13): Revert "[pre-commit.ci] pre-commit autoupdate"
 - [#5094](https://github.com/psf/black/pull/5094) (2026-04-12): Update old comments & add back Hatch plugins
 - [#5069](https://github.com/psf/black/pull/5069) (2026-03-30): Add tests for #3350
