@@ -6,6 +6,7 @@ Significant contributions that I have made to various open-source projects over 
 
 ### Maintainer since January 2025
 
+- [#5319](https://github.com/psf/black/pull/5319) (2026-08-19): Delete scripts/migrate-black.py
 - [#5294](https://github.com/psf/black/pull/5294) (2026-08-04): docs: fix typos in docstrings, and remove some unused code
 - [#5293](https://github.com/psf/black/pull/5293) (2026-08-04): fix PIP_UPLOADED_PRIOR_TO in Dockerfile
 - [#5258](https://github.com/psf/black/pull/5258) (2026-07-24): Ignore permission errors when reading cache
@@ -175,6 +176,7 @@ Significant contributions that I have made to various open-source projects over 
 - [BirthdayyBot/BirthdayyBot#173](https://github.com/BirthdayyBot/BirthdayyBot/pull/173) (2023-04-04): Fix permissions for `/birthday update` and `/birthday remove`
 - [antfu/vscode-file-nesting-config#147](https://github.com/antfu/vscode-file-nesting-config/pull/147) (2023-02-20): feat: add npm-shrinkwrap.json
 - [TurboWarp/docs#48](https://github.com/TurboWarp/docs/pull/48) (2022-10-30): Fix grammar in 4.4.md
+- [danielgallab/danielgallab#4](https://github.com/danielgallab/danielgallab/pull/4) (2022-02-16): Scradd
 - [jeffalo/ocular#137](https://github.com/jeffalo/ocular/pull/137) (2022-01-11): Fix broken link
 - [bryanburgers/node-mustache-express#33](https://github.com/bryanburgers/node-mustache-express/pull/33) (2021-08-05): Tell the user what file errors occur in
 - [stewartmcgown/grammarly-api#27](https://github.com/stewartmcgown/grammarly-api/pull/27) (2021-06-05): Dialect customization
