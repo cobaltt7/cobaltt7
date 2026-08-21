@@ -5,7 +5,7 @@
 import { writeFile } from "node:fs/promises";
 
 const USERNAMES = ["cobaltt7", "RedGuy12", "RedGuy13"];
-const IGNORED_ORGS = [...USERNAMES, "sa-community", "scratchdit", "nexensys", "TheColaber"];
+const IGNORED_ORGS = [...USERNAMES, "sa-community", "scratchdit", "nexensys", "danielgallab"];
 const PER_PAGE = 100;
 
 let page = 1;
