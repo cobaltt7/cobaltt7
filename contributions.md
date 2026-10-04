@@ -8,6 +8,7 @@ Significant contributions that I have made to various open-source projects over 
 
 - [#5384](https://github.com/psf/black/pull/5384) (2026-09-02): Bump mypy from 2.3.0 to 2.3.1
 - [#5319](https://github.com/psf/black/pull/5319) (2026-08-19): Delete scripts/migrate-black.py
+- [#5296](https://github.com/psf/black/pull/5296) (2026-08-06): Refactor release process to be more automated and use immutable releases
 - [#5294](https://github.com/psf/black/pull/5294) (2026-08-04): docs: fix typos in docstrings, and remove some unused code
 - [#5293](https://github.com/psf/black/pull/5293) (2026-08-04): fix PIP_UPLOADED_PRIOR_TO in Dockerfile
 - [#5258](https://github.com/psf/black/pull/5258) (2026-07-24): Ignore permission errors when reading cache
