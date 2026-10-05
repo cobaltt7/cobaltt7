@@ -6,6 +6,7 @@ Significant contributions that I have made to various open-source projects over 
 
 ### Maintainer since January 2025
 
+- [#5483](https://github.com/psf/black/pull/5483) (2026-10-05): Update contributing guidlines
 - [#5384](https://github.com/psf/black/pull/5384) (2026-09-02): Bump mypy from 2.3.0 to 2.3.1
 - [#5319](https://github.com/psf/black/pull/5319) (2026-08-19): Delete scripts/migrate-black.py
 - [#5296](https://github.com/psf/black/pull/5296) (2026-08-06): Refactor release process to be more automated and use immutable releases
