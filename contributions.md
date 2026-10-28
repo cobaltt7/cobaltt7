@@ -6,6 +6,7 @@ Significant contributions that I have made to various open-source projects over 
 
 ### Maintainer since January 2025
 
+- [#5632](https://github.com/psf/black/pull/5632) (2026-10-27): Resolve Pytest deprecation
 - [#5614](https://github.com/psf/black/pull/5614) (2026-10-25): Remove unused code
 - [#5483](https://github.com/psf/black/pull/5483) (2026-10-05): Update contributing guidlines
 - [#5384](https://github.com/psf/black/pull/5384) (2026-09-02): Bump mypy from 2.3.0 to 2.3.1
