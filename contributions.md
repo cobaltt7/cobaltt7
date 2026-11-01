@@ -7,6 +7,7 @@ Significant contributions that I have made to various open-source projects over 
 ### Maintainer since January 2025
 
 - [#5632](https://github.com/psf/black/pull/5632) (2026-10-27): Resolve Pytest deprecation
+- [#5616](https://github.com/psf/black/pull/5616) (2026-10-25): Drop 3.10 & update dependencies
 - [#5614](https://github.com/psf/black/pull/5614) (2026-10-25): Remove unused code
 - [#5483](https://github.com/psf/black/pull/5483) (2026-10-05): Update contributing guidlines
 - [#5384](https://github.com/psf/black/pull/5384) (2026-09-02): Bump mypy from 2.3.0 to 2.3.1
@@ -47,6 +48,7 @@ Significant contributions that I have made to various open-source projects over 
 - [#4893](https://github.com/psf/black/pull/4893) (2025-12-08): Revert "Fix `# fmt: skip` ignored in deeply nested expressions"
 - [#4892](https://github.com/psf/black/pull/4892) (2025-12-07): Prepare 2026.1.0 release
 - [#4891](https://github.com/psf/black/pull/4891) (2025-12-07): Prepare 25.12.0 release
+- [#4881](https://github.com/psf/black/pull/4881) (2025-12-04): wrap_comprehension_in: Retain user's choice if there's delimiters
 - [#4878](https://github.com/psf/black/pull/4878) (2025-12-01): Pin Hatch to hopefully fix Docker builds
 - [#4876](https://github.com/psf/black/pull/4876) (2025-11-29): Attempt to fix Docker build failures
 - [#4874](https://github.com/psf/black/pull/4874) (2025-11-28): Remove old `noqa` comments and disable `C901` globally
