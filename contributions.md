@@ -8,6 +8,7 @@ Significant contributions that I have made to various open-source projects over 
 
 - [#5657](https://github.com/psf/black/pull/5657) (2026-11-03): Ensure `parenthesize_expressions_with_comments` is in preview
 - [#5632](https://github.com/psf/black/pull/5632) (2026-10-27): Resolve Pytest deprecation
+- [#5627](https://github.com/psf/black/pull/5627) (2026-10-27): wrap_long_dict_values_in_parens: Respect user choice if no delimiters
 - [#5616](https://github.com/psf/black/pull/5616) (2026-10-25): Drop 3.10 & update dependencies
 - [#5614](https://github.com/psf/black/pull/5614) (2026-10-25): Remove unused code
 - [#5483](https://github.com/psf/black/pull/5483) (2026-10-05): Update contributing guidlines
