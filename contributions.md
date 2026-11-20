@@ -6,6 +6,8 @@ Significant contributions that I have made to various open-source projects over 
 
 ### Maintainer since January 2025
 
+- [#5707](https://github.com/psf/black/pull/5707) (2026-11-18): Stop including pip & build dependencies in Docker build
+- [#5706](https://github.com/psf/black/pull/5706) (2026-11-18): Cleanup integrations docs
 - [#5657](https://github.com/psf/black/pull/5657) (2026-11-03): Ensure `parenthesize_expressions_with_comments` is in preview
 - [#5632](https://github.com/psf/black/pull/5632) (2026-10-27): Resolve Pytest deprecation
 - [#5627](https://github.com/psf/black/pull/5627) (2026-10-27): wrap_long_dict_values_in_parens: Respect user choice if no delimiters
